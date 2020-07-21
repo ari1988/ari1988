@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Automation Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
-- 🔭 I’m currently working on [Creating a cicd pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
+- 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
 
 - 💬 Ask me about **DevOps, Automation testing**
 
