@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arvindsingh.cs@hotmail.com**
 
-- ⚡ Fun fact **I love masala panipuri not meethi panipuri**
+- ⚡ Fun fact **Chai over Coffee**
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ari1988&show_icons=true" alt="ari1988" /> </p>
 
