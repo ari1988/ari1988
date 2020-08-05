@@ -37,10 +37,4 @@
 </p>
 
 <br />
-<br />
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
-
-⭐️ From [Arvind Singh](https://github.com/ari1988)
