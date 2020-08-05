@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arvind Singh</h1>
+### Arvind Singh 👨‍💻
 <h3 align="center">A passionate DevOps Automation Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
