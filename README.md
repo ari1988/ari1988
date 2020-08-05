@@ -1,4 +1,9 @@
-### Arvind Singh 👨‍💻
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+### Hi there 👋 I am Arvind Singh
 <h3 align="center">A passionate DevOps Automation Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
