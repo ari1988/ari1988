@@ -48,7 +48,7 @@
 
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://www.jenkins.io/" target="_blank"><img height="50"src="https://github.com/ari1988/devops-exercises/raw/master/images/jenkins.png"></code>
+<code><a href="https://www.jenkins.io/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/ari1988/devops-exercises/master/images/jenkins.png"></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
 <code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
