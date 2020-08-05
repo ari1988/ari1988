@@ -65,7 +65,6 @@
 
 <br />
 <br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<a href="https://github.com/ari1988/ari1988/blob/master/dinoGame.html"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></a>
 <br />
 <br />
