@@ -16,11 +16,9 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/jenkins.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/git.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/ansible.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/network.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/linux.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/terraform.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/docker.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/coding.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/python.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/bash.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/kubernetes.png"></code>
@@ -29,18 +27,13 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/sql.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/cloud.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/aws.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/aws.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/googlecloud.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/security.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/openshift.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/monitoring.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/elastic.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/dns.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/os.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/distributed.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/testing.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/databases.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/regex.png"></code>
 
 
