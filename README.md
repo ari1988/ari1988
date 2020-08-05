@@ -1,4 +1,17 @@
 ### Hi there, 👋 I am Arvind Singh
+<a href="https://twitter.com/maihugabbar">
+  <img align="left" alt="Arvind Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arvindsingh88/">
+  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/w_rabbit88">
+  <img align="left" alt="Arvind's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.reddit.com/user/w_rabbit88/">
+  <img align="left" alt="Arvind's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
 - 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
