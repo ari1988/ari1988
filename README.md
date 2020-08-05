@@ -25,7 +25,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/prometheus.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/mongo.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/sql.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/cloud.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/aws.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/googlecloud.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/openshift.png"></code>
