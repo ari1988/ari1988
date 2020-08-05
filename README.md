@@ -65,6 +65,7 @@
 
 <br />
 <br />
-<a href="https://github.com/ari1988/ari1988/blob/master/dinoGame.html"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></a>
+**Click T-Rex image to play the game in browser**  
+<a href="https://ari1988.github.io/"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></a>
 <br />
 <br />
