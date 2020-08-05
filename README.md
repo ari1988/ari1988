@@ -19,6 +19,7 @@
 <code><img height="20" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png"></code>
 <code><img height="20" src="https://www.ibm.com/cloud-computing/images/new-cloud/img/cloud.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/linux.png"></code>
+<code><img height="20" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/docker.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/python.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/bash.png"></code>
