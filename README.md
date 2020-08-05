@@ -18,7 +18,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/ansible.png"></code>
 <code><img alt="Selenoid" height="20" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png"></code>
 <code><img height="20" src="https://avatars2.githubusercontent.com/u/26328913?s=400&v=4"></code>
-<code><img height="20" src="https://www.ibm.com/cloud-computing/images/new-cloud/img/cloud.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/linux.png"></code>
 <code><img height="20" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/python.png"></code>
@@ -30,7 +29,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/openshift.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/elastic.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/testing.png"></code>
 
 
 <a href="https://twitter.com/@maihugabbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@maihugabbar" height="20" width="20" /></a>
