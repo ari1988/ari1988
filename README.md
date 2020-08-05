@@ -44,13 +44,13 @@
 </div>
 <p align="center">
   <a href="https://twitter.com/@maihugabbar" target="blank">
-  <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/> &nbsp; &nbsp;
+  <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/> &nbsp;
 </a>
 <a href="https://www.linkedin.com/in/arvindsingh88/" target="blank">
-  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /> &nbsp;
 </a>
 <a href="https://t.me/w_rabbit88" target="blank">
-  <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" /> &nbsp; &nbsp;
+  <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" /> &nbsp;
 </a>
 <a href="https://www.reddit.com/user/w_rabbit88/" target="blank">
   <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" />
