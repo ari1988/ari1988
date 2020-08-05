@@ -11,7 +11,8 @@
 <a href="https://www.reddit.com/user/w_rabbit88/">
   <img align="left" alt="Arvind's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
+<br />
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
 - 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
