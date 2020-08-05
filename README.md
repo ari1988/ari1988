@@ -16,6 +16,7 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/jenkins.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/git.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/ansible.png"></code>
+<code><img height="20" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/05330/cypress-logo.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/linux.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/terraform.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/docker.png"></code>
