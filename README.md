@@ -30,6 +30,7 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/elastic.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
 
+![Arvind's github stats](https://github-readme-stats.vercel.app/api?username=ari1988&show_icons=true&line_height=30)
 
 <a href="https://twitter.com/@maihugabbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@maihugabbar" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/arvindsingh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arvindsingh88" height="20" width="20" /></a>
