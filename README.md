@@ -4,6 +4,9 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
+[![Keybase Badge](https://img.shields.io/badge/-piraces-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/piraces)](https://keybase.io/piraces)
+<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+
 - 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
 
 - 💬 Ask me about **DevOps, Automation testing**
