@@ -12,7 +12,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/devops.png"></code>
+<code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/devops.png" alt="DevOps"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/jenkins.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/git.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/ansible.png"></code>
