@@ -43,37 +43,18 @@
   <h3 align="center">Connect with me</h3> 
 </div>
 <p align="center">
-  <a href="https://twitter.com/maihugabbar">
-  <img align="left" alt="Arvind Singh | Twitter" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-tile.svg" />
+  <a href="https://twitter.com/maihugabbar" target="blank">
+  <img align="left" alt="Arvind Singh | Twitter" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
 </a>
-<a href="https://www.linkedin.com/in/arvindsingh88/">
-  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-tile.svg" />
+<a href="https://www.linkedin.com/in/arvindsingh88/" target="blank">
+  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-tile.svg" /> &nbsp; &nbsp;
 </a>
-<a href="https://t.me/w_rabbit88">
-  <img align="left" alt="Arvind's Telegram" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/telegram/telegram-tile.svg" />
+<a href="https://t.me/w_rabbit88" target="blank">
+  <img align="left" alt="Arvind's Telegram" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/telegram/telegram-tile.svg" /> &nbsp; &nbsp;
 </a>
-<a href="https://www.reddit.com/user/w_rabbit88/">
+<a href="https://www.reddit.com/user/w_rabbit88/" target="blank">
   <img align="left" alt="Arvind's Reddit" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reddit/reddit-tile.svg" />
 </a>
-  <br/>
-  <br/>
-  Thanks for stopping by 😁<br/>
-</p>
-
-
-<p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
