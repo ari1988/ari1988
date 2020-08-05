@@ -1,5 +1,8 @@
 ### Hi there, 👋 I am Arvind Singh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MaiHuGabbar)](https://twitter.com/MaiHuGabbar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arvindsingh88/)](https://www.linkedin.com/in/arvindsingh88/)
+[![GitHub followers](https://img.shields.io/github/followers/ari1988.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
 - 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
 
