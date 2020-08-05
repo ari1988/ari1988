@@ -43,4 +43,4 @@
 <br />
 <br />
 
-⭐️ From [Arvind](https://github.com/ari1988)
+⭐️ From [Arvind Singh](https://github.com/ari1988)
