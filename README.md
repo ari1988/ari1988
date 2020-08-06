@@ -45,7 +45,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ari1988/ari1988/blob/master/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-  <a href="https://twitter.com/@maihugabbar" target="blank">
+  <a href="https://twitter.com/maihugabbar" target="blank">
   <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/> &nbsp;
 </a>
 <a href="https://www.linkedin.com/in/arvindsingh88/" target="blank">
