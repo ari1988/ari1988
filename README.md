@@ -65,7 +65,8 @@
 
 <br />
 <br />
-<h3>Click T-Rex image to play the game in browser</h3>
-<a href="https://ari1988.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></a>
+
+<code><a href="https://ari1988.github.io/" target="_blank"><img height="20" src="https://github.com/ari1988/ari1988/blob/master/sticker_2125.png"></a></code>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 <br />
 <br />
