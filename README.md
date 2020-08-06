@@ -1,7 +1,5 @@
 ### Hi there, 👋 I am Arvind Singh
-<audio autoplay loop>
-<source src="https://github.com/ari1988/ari1988/blob/master/matrix_300kb.mp3"></source>
-</audio>
+
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
