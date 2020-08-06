@@ -66,7 +66,7 @@
 <br />
 <br />
 
-<code><a href="https://ari1988.github.io/" target="_blank"><img height="20" src="https://github.com/ari1988/ari1988/blob/master/sticker_2125.png"></a></code>
+<code><a href="https://ari1988.github.io/" target="_blank"><img height="40" src="https://github.com/ari1988/ari1988/blob/master/sticker_2125.png"></a></code>
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 <br />
 <br />
