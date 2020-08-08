@@ -40,10 +40,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
 </p>
 
-<a href="https://github.com/ari1988">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari1988&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=30&hide=glsl,python" />
-</a>
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ari1988/ari1988/blob/master/Handshake.gif" height="33px" /></h3> 
 </div>
