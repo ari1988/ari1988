@@ -38,8 +38,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/openshift.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/elastic.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ari1988&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=30)
 </p>
 
 <a href="https://github.com/ari1988">
