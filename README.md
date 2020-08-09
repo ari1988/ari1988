@@ -9,7 +9,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
 
-<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
+<img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" />
 
 - 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
 
