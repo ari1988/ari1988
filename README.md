@@ -1,8 +1,6 @@
 ### Hi there, 👋 I am Arvind Singh
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
-  <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180">
-  <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"> 
 </p>
 
 <br />
@@ -44,7 +42,7 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/ari1988/ari1988/blob/master/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-  <a href="https://twitter.com/maihugabbar" target="blank">
+  <a href="https://twitter.com/0x4rv1nd" target="blank">
   <img align="center"  width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/> &nbsp;
 </a>
 <a href="https://www.linkedin.com/in/arvindsingh88/" target="blank">
