@@ -55,12 +55,15 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/virtualization.png"></code>
 </p>
 
+<br/>
 
+<summary><b>🏆 Github Achievements</b></summary>
+<br/>
+<p align="center"> <a href="https://github.com/ari1988"><img src="https://github-profile-trophy.vercel.app/?username=ari1988&margin-w=5&theme=radical" alt="ari1988" /></a> </p>
 
+<br/>
 
-
-  <br/>
-  <br/>
+<br/>
   Thanks for stopping by 😁<br/>
 </p>
 
