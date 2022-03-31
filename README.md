@@ -45,7 +45,6 @@
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/ansible.png"></code>
 <code><img height="20" src="https://avatars2.githubusercontent.com/u/26328913?s=400&v=4"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/linux.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/python.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/bash.png"></code>
 <code><img height="20" src="https://github.com/ari1988/devops-exercises/raw/master/images/kubernetes.png"></code>
