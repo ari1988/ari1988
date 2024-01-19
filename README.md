@@ -9,19 +9,10 @@
 </p>
 <br />
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p>
-
-- 🔭 I’m currently working on [Implementing a Full CI/CD pipeline](https://github.com/linuxacademy/cicd-pipeline-train-schedule-git)
-
-- 💬 Ask me about **DevOps, Automation testing**
-
-- 📫 How to reach me **arvindsingh.cs@hotmail.com**
-
-- ⚡ Fun fact **Chai over Coffee**
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ari1988" alt="ari1988" /> </p> -->
 
 <br/>
   Thanks for stopping by 😁<br/>
 </p>
-
 <code><a href="https://ari1988.github.io/" target="_blank"><img height="80" src="https://github.com/ari1988/ari1988/blob/master/sticker_2125.png"></a></code>
 <br />
